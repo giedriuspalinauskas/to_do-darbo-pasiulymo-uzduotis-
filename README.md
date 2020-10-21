@@ -1,4 +1,4 @@
-# Projects To_do(viawolf)
+# Projects To_do
 
 1. Pasileisti mano projektą per virtualų serverį.
 2. Susikurti duomenų baze pavadinimu "to_do" ir susikelti visus duomenis iš failo ..\To-do(riawolf)\tekstas.sql.
